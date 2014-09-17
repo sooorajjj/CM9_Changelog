@@ -16,4 +16,19 @@
         <changelogtext>NETFILTER: networking based updates</changelogtext>
     </changelogversion>
 
+    <changelogversion versionName="UNOFFICIAL-BUILD-2" changeDate="Sep 18,2014">
+        <changelogtext>FIX: KSM.</changelogtext>
+        <changelogtext>sched, autogroup: Fix reference leak</changelogtext>
+        <changelogtext>ADD: smartass2, interactivex and savagedzen governors</changelogtext>
+        <changelogtext>FIX: charger .... but res/charger images still broken...:(</changelogtext>
+        <changelogtext>ADD: vr and sio i/O schedulers</changelogtext>
+        <changelogtext>block: prepare I/O context code for BFQ-v5</changelogtext>
+        <changelogtext>block: cgroups, kconfig, build bits for BFQ-v5</changelogtext>
+        <changelogtext>block: introduce the BFQ-v5 I/O sched</changelogtext>      
+        <changelogtext>Disabled: bfq scheduler for the time being</changelogtext>
+        <changelogtext>Fix the battery capacity calculation logic</changelogtext>
+        <changelogtext>fix make clean/mrproper</changelogtext>
+    </changelogversion>
+
+
 </changelog>
