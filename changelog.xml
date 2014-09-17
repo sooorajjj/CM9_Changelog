@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog bulletedList="true">
+
+    <!-- It is a template file for changelog.xml -->
+
+    <!-- CHANGELOG for unofficial CM-9 BUILDS -->
+
+
+    <changelogversion versionName="UNOFFICIAL-BUILD-1" changeDate="Sep 17,2014">
+        <changelogtext>Initial release.</changelogtext>
+        <changelogtext>MSM: KGSL: Increase REG_RBBM_CNTL value to 0xFFFF for A200</changelogtext>
+        <changelogtext>PM / Hibernate: Make default image size depend on total RAM size</changelogtext>
+        <changelogtext>ADD: KSM support</changelogtext>
+        <changelogtext>ADD: ZRAM support</changelogtext>
+        <changelogtext>FIX: OVERCLOCK : Increase Axsis-Bus Overclocking</changelogtext>
+        <changelogtext>NETFILTER: networking based updates</changelogtext>
+    </changelogversion>
+
+</changelog>
