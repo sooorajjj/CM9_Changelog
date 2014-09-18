@@ -26,9 +26,23 @@
         <changelogtext>block: cgroups, kconfig, build bits for BFQ-v5</changelogtext>
         <changelogtext>block: introduce the BFQ-v5 I/O sched</changelogtext>      
         <changelogtext>Disabled: bfq scheduler for the time being</changelogtext>
-        <changelogtext>Fix the battery capacity calculation logic</changelogtext>
-        <changelogtext>fix make clean/mrproper</changelogtext>
+        <changelogtext>Fix: the battery capacity calculation logic</changelogtext>
+        <changelogtext>fix: make clean/mrproper</changelogtext>
+        <changelogtext>SD-Merge build on request of my friends at WA :)</changelogtext>  
     </changelogversion>
-
+    
+    <changelogversion versionName="UNOFFICIAL-BUILD-3" changeDate="Sep 18,2014">
+        <changelogtext>MSM: qdsp5: Fix logging adsp messages for 32-bit address</changelogtext>
+        <changelogtext>Add: GPU OC->307200000</changelogtext>
+        <changelogtext>Update: smartass</changelogtext>
+        <changelogtext>board-msm7x27a: Increase PMEM_ADSP Size by 1 mb</changelogtext>
+        <changelogtext>board-msm7x27a: Reduce pmem mdp size to 27MB</changelogtext>
+        <changelogtext>board-msm7x27a: Increase PMEM for Low Power Audio </changelogtext>
+        <changelogtext>Genlock: update to ics_chocolate......! pheww(>_<)</changelogtext>
+        <changelogtext>Revert: SD-MERGE</changelogtext>      
+        <changelogtext>makefile optimization & fix derp</changelogtext>
+        <changelogtext>block fbearlysuspend to not break android's crt-off animation</changelogtext>
+    </changelogversion>
+ 
 
 </changelog>
