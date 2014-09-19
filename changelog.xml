@@ -31,7 +31,7 @@
         <changelogtext>SD-Merge build on request of my friends at WA :)</changelogtext>  
     </changelogversion>
     
-    <changelogversion versionName="UNOFFICIAL-BUILD-3" changeDate="Sep 18,2014">
+    <changelogversion versionName="UNOFFICIAL-BUILD-3" changeDate="Sep 19,2014">
         <changelogtext>MSM: qdsp5: Fix logging adsp messages for 32-bit address</changelogtext>
         <changelogtext>Add: GPU OC->307200000</changelogtext>
         <changelogtext>Update: smartass</changelogtext>
