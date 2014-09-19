@@ -43,6 +43,22 @@
         <changelogtext>makefile optimization & fix derp</changelogtext>
         <changelogtext>block fbearlysuspend to not break android's crt-off animation</changelogtext>
     </changelogversion>
- 
+    
+    
+    <changelogversion versionName="UNOFFICIAL-BUILD-4" changeDate="Sep 20,2014">
+        <changelogtext>MSM: qdsp5: Fix logging adsp messages for 32-bit address</changelogtext>
+        <changelogtext>Net sched: fix some kernel memory leaks</changelogtext>
+        <changelogtext>Update: smartass</changelogtext>
+        <changelogtext>Revert: board-msm7x27a: Increase PMEM_ADSP Size by 1 mb</changelogtext>
+        <changelogtext>Revert: board-msm7x27a: Reduce pmem mdp size to 27MB</changelogtext>
+        <changelogtext>Revert: board-msm7x27a: Increase PMEM for Low Power Audio </changelogtext>
+        <changelogtext>Revert: Genlock: update to ics_chocolate......(as it breaks adreno)</changelogtext>
+        <changelogtext>Staging: android: lowmemorykiller: Add config option to support oom_a… </changelogtext>
+        <changelogtext>ARM: disable preemption in machine_shutdown</changelogtext>
+        <changelogtext>Msm: smd: Remove spurious DATA notification </changelogtext>
+        <changelogtext>msm: kgsl: Update pagetable on context destruction for A20x</changelogtext>
+        <changelogtext>netfilter: qtaguid: initialize a local var to keep compiler happy.</changelogtext>
+    </changelogversion>
+    
 
 </changelog>
