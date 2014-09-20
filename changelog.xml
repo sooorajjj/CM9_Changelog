@@ -46,7 +46,6 @@
     
     
     <changelogversion versionName="UNOFFICIAL-BUILD-4" changeDate="Sep 20,2014">
-        <changelogtext>MSM: qdsp5: Fix logging adsp messages for 32-bit address</changelogtext>
         <changelogtext>Net sched: fix some kernel memory leaks</changelogtext>
         <changelogtext>Update: smartass</changelogtext>
         <changelogtext>Revert: board-msm7x27a: Increase PMEM_ADSP Size by 1 mb</changelogtext>
@@ -60,5 +59,22 @@
         <changelogtext>netfilter: qtaguid: initialize a local var to keep compiler happy.</changelogtext>
     </changelogversion>
     
+    <changelogversion versionName="UNOFFICIAL-BUILD-5" changeDate="Sep 21,2014">
+        <changelogtext>Staging: android: lowmemorykiller: Change default debug_level to 1</changelogtext>
+        <changelogtext>Revert: GPU OC->307200000 (stablity issues)</changelogtext>
+        <changelogtext>Msm: acpuclock-7201: Add delay for apps cpu clock switch</changelogtext>
+        <changelogtext>Msm: acpuclock-7201: Add support for updating lpj in acpuclock</changelogtext>
+        <changelogtext>Msm-fb: display: Reducing the display wake</changelogtext>
+        <changelogtext>Msm: acpuclock-7201: Fix table index for precomputing frequency jump up time</changelogtext>
+        <changelogtext>sched: Fix struct autogroup memory leak</changelogtext>
+        <changelogtext>binder: Update to version from msm 3.0 kernel</changelogtext>
+        <changelogtext>UPDATE: cyanogenmod_e0_defconfigcpufreq</changelogtext>
+        <changelogtext>cpufreq: interactive: don't drop speed if recently at higher load</changelogtext>
+        <changelogtext>cpufreq: Add a boostpulse interface to ondemand</changelogtext>
+        <changelogtext>Msm: pmem: Squashed update to version from msm 2.6.35 kernel</changelogtext>
+        <changelogtext>pmem: Check for valid virtual address while flushing</changelogtext>
+        <changelogtext>pmem: Correctly account for aligned blocks</changelogtext>
+        <changelogtext>Revert: Use pmem from CAF</changelogtext>
+    </changelogversion>
 
 </changelog>
