@@ -68,7 +68,7 @@
         <changelogtext>Msm: acpuclock-7201: Fix table index for precomputing frequency jump up time</changelogtext>
         <changelogtext>sched: Fix struct autogroup memory leak</changelogtext>
         <changelogtext>binder: Update to version from msm 3.0 kernel</changelogtext>
-        <changelogtext>UPDATE: cyanogenmod_e0_defconfigcpufreq</changelogtext>
+        <changelogtext>UPDATE: cyanogenmod_e0_defconfig</changelogtext>
         <changelogtext>cpufreq: interactive: don't drop speed if recently at higher load</changelogtext>
         <changelogtext>cpufreq: Add a boostpulse interface to ondemand</changelogtext>
         <changelogtext>Msm: pmem: Squashed update to version from msm 2.6.35 kernel</changelogtext>
