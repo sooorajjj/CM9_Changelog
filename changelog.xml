@@ -90,5 +90,14 @@
         <changelogtext>PM: Free memory bitmaps if opening /dev/snapshot fails</changelogtext>
         <changelogtext>MDP UPDATE : MSMFB_OVERLAY_COMMIT (bring inline with CAF)</changelogtext>
     </changelogversion>
+    
+    <changelogversion versionName="UNOFFICIAL-BUILD-5.1" changeDate="Sep 21,2014">
+    <changelogtext></changelogtext>
+    <changelogtext></changelogtext>
+    <changelogtext></changelogtext>
+    <changelogtext></changelogtext>
+    <changelogtext></changelogtext>
+    <changelogtext></changelogtext>
+    msm: kgsl: Increase REG_RBBM_CNTL value to 0xFFFF for A200
 
 </changelog>
