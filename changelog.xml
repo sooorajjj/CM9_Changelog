@@ -82,7 +82,6 @@
         <changelogtext>Revert: msm: acpuclock-7201: Add support for updating lpj in acpuclock</changelogtext>
         <changelogtext>Revert: msm: acpuclock-7201: Add delay for apps cpu clock switch</changelogtext>
         <changelogtext>Revert: msm-fb: display: Reducing the display wake up time</changelogtext>
-        <changelogtext>Revert: block fbearlysuspend to not break android's crt-off animation</changelogtext>
         <changelogtext>Revert: HACK: block fbearlysuspend to not break androids crt-off animation</changelogtext>
         <changelogtext>PM / Hibernate: Fix free_unnecessary_pages()</changelogtext>
         <changelogtext>mm: ashmem: Make sure vma is valid while flushing</changelogtext>
@@ -91,13 +90,10 @@
         <changelogtext>MDP UPDATE : MSMFB_OVERLAY_COMMIT (bring inline with CAF)</changelogtext>
     </changelogversion>
     
-    <changelogversion versionName="UNOFFICIAL-BUILD-5.1" changeDate="Sep 21,2014">
-    <changelogtext></changelogtext>
-    <changelogtext></changelogtext>
-    <changelogtext></changelogtext>
-    <changelogtext></changelogtext>
-    <changelogtext></changelogtext>
-    <changelogtext></changelogtext>
-    msm: kgsl: Increase REG_RBBM_CNTL value to 0xFFFF for A200
+    <changelogversion versionName="UNOFFICIAL-BUILD-5.2" changeDate="Sep 21,2014">
+        <changelogtext>Revert: msm: kgsl: Increase REG_RBBM_CNTL value to 0xFFFF for A200</changelogtext>
+        <changelogtext>Revert: msm: kgsl: Update pagetable on context destruction for A20x</changelogtext>
+    </changelogversion>
+   
 
 </changelog>
