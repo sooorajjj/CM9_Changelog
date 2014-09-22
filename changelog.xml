@@ -97,7 +97,9 @@
     
     <changelogversion versionName="UNOFFICIAL-BUILD-6" changeDate="Sep 23,2014">
         <changelogtext>ADD: SD-Merge support added</changelogtext>
-        <changelogtext></changelogtext>
+        <changelogtext>ADD: GPU OC->307200000</changelogtext>
+        <changelogtext>msm: kgsl: Increase REG_RBBM_CNTL value to 0xFFFF for A200</changelogtext>
+        <changelogtext>Changes: to cyanogenmod_e0_defconfig</changelogtext>
     </changelogversion>
    
 
