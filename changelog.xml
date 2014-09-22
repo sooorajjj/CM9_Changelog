@@ -94,6 +94,11 @@
         <changelogtext>Revert: msm: kgsl: Increase REG_RBBM_CNTL value to 0xFFFF for A200</changelogtext>
         <changelogtext>Revert: msm: kgsl: Update pagetable on context destruction for A20x</changelogtext>
     </changelogversion>
+    
+    <changelogversion versionName="UNOFFICIAL-BUILD-6" changeDate="Sep 23,2014">
+        <changelogtext>ADD: SD-Merge support added</changelogtext>
+        <changelogtext></changelogtext>
+    </changelogversion>
    
 
 </changelog>
