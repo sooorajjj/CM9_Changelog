@@ -102,5 +102,17 @@
         <changelogtext>Changes: to cyanogenmod_e0_defconfig</changelogtext>
     </changelogversion>
    
+    <changelogversion versionName="UNOFFICIAL-BUILD-7" changeDate="Sep 23,2014">
+        <changelogtext>Revert: SD-Merge support added</changelogtext>
+        <changelogtext>Perf. updates: ondemand sampling rate</changelogtext>
+        <changelogtext>Disabled: hw vsync composition</changelogtext>
+        <changelogtext>ADD: Filemanager</changelogtext>
+        <changelogtext>Changes: system.prop</changelogtext>
+        <changelogtext>Changes: init.e0.rc for lowmemorykiller fix</changelogtext>
+        <changelogtext>Revert: "pmem: Correctly account for aligned blocks"</changelogtext>
+        <changelogtext>Revert: "pmem: Check for valid virtual address while flushing"</changelogtext>
+        <changelogtext>Replace old compcache with new ZRAM</changelogtext>
+    </changelogversion>
+    
 
 </changelog>
