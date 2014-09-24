@@ -102,7 +102,7 @@
         <changelogtext>Changes: to cyanogenmod_e0_defconfig</changelogtext>
     </changelogversion>
    
-    <changelogversion versionName="UNOFFICIAL-BUILD-7" changeDate="Sep 23,2014">
+    <changelogversion versionName="UNOFFICIAL-BUILD-7" changeDate="Sep 24,2014">
         <changelogtext>Revert: SD-Merge support added</changelogtext>
         <changelogtext>Perf. updates: ondemand sampling rate</changelogtext>
         <changelogtext>Disabled: hw vsync composition</changelogtext>
