@@ -114,5 +114,9 @@
         <changelogtext>Replace old compcache with new ZRAM</changelogtext>
     </changelogversion>
     
+    <changelogversion versionName="UNOFFICIAL-BUILD-8" changeDate="Sep 25,2014">
+        <changelogtext>ADD: SD-Merge</changelogtext>
+        <changelogtext>Fix: charger images</changelogtext>
+    </changelogversion>
 
 </changelog>
