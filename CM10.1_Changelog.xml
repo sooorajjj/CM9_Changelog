@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog bulletedList="true">
+
+    <!-- It is a template file for changelog.xml -->
+
+    <!-- CHANGELOG for unofficial CM-10.1 BUILDS -->
+
+
+    <changelogversion versionName="UNOFFICIAL-BUILD-1" changeDate="Sep 17,2014">
+        <changelogtext>Initial TRY(to get cm10.1 - booting )</changelogtext>
+        <changelogtext>ADD: .gitignore</changelogtext>
+        <changelogtext>mm: Increase Readahead value to 1024 bytes</changelogtext>
+        <changelogtext>rcu: introduce kfree_rcu()</changelogtext>
+    </changelogversion>
+    
+    
+</changelog>
