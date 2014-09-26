@@ -6,7 +6,7 @@
     <!-- CHANGELOG for unofficial CM-10.1 BUILDS -->
 
 
-    <changelogversion versionName="UNOFFICIAL-BUILD-1" changeDate="Sep 17,2014">
+    <changelogversion versionName="UNOFFICIAL-BUILD-1" changeDate="Sep 25,2014">
         <changelogtext>Initial TRY(to get cm10.1 - booting )</changelogtext>
         <changelogtext>ADD: .gitignore</changelogtext>
         <changelogtext>mm: Increase Readahead value to 1024 bytes</changelogtext>
